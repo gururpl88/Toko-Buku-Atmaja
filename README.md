@@ -14,7 +14,7 @@ Sebuah aplikasi web sederhana untuk manajemen toko buku, dibangun menggunakan La
 🔗 [Lihat Source Code Project di GitHub](https://github.com/gururpl88/Toko-Buku-Atmaja)
 
 ### ✨ Fitur:
-- CRUD Buku, Distributor, dan Pembelian
+- CRUD Buku, Stok Otomatis, Distributor, Kasir, Penjualan dan Pembelian
 - Validasi Form & Flash Message
 - Blade Component: `<x-input>` & `<x-select>`
 - Login Otentikasi (opsional)
