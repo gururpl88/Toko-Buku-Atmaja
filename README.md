@@ -9,9 +9,16 @@
 
 ## Aplikasi Toko Buku Online Atmaja
 
-🔗 [Lihat Demo Project di GitHub](https://gururpl88.github.io/Toko-Buku-Atmaja/)
+Sebuah aplikasi web sederhana untuk manajemen toko buku, dibangun menggunakan Laravel 11.
 
+🔗 [Lihat Source Code Project di GitHub](https://github.com/gururpl88/Toko-Buku-Atmaja)
 
+### ✨ Fitur:
+- CRUD Buku, Distributor, dan Pembelian
+- Validasi Form & Flash Message
+- Blade Component: `<x-input>` & `<x-select>`
+- Login Otentikasi (opsional)
+- Responsive UI
 
 ## License
 
